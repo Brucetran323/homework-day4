@@ -1,0 +1,207 @@
+* {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+nav li {
+    display: inline;
+    margin: 40px;
+}
+nav ul {
+    background-color: white;
+    margin: 0 auto;
+    list-style-type: none;
+    width: fit-content;
+    padding: 20px;
+}
+nav {
+    display: block;
+    color: rgb(0, 0, 0);
+    background-color: white;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+nav a {
+    color: rgba(0, 0, 0, 0.765);
+    text-decoration-line: none;
+}
+.logo {
+    padding-left: 30px;
+}
+.container {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    justify-content: space-between;
+}
+.item1 {
+    margin-top: 100px;
+    width: 50%;
+    height: 600px;
+}
+.item2 {
+    margin-top: 50px;
+    width:50%;
+    height: 600px;
+    background-image:url("/images/CRM-How-it-works/Header-Side.png");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.flex-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    margin:0 auto;
+    gap: 20px;
+}
+.button1 {
+    width: 33%;
+    background-color: rgb(0, 68, 255)!important;
+    border: none!important;
+}
+.button2 {
+    width: 33%;
+    border-color: rgb(0, 68, 255)!important;
+    color: rgb(0, 68, 255)!important;
+}
+#focus {
+    font-weight: 550;
+    font-size: 35pt;
+}
+#subscription {
+    color: grey;
+}
+.bottom-text {
+    color: grey;
+    margin-bottom: 20px;
+    padding-top: 15px;
+}
+#bold {
+    font-weight: 600;
+}
+.container2 {
+    width: 90%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    margin: 100px;
+    text-align: center;
+}
+.card-top{
+    width: 100%;
+    margin:0 auto;
+    float: none;
+    max-width: 1000px;
+    display: flex;
+    flex-direction: row!important;
+    border: solid rgba(197, 197, 197, 0.755);
+    border-top-right-radius: 5%;
+    border-bottom-right-radius: 5%;
+}
+.card-bottom{
+    width: 100%;
+    margin: 0 auto;
+    float: none;
+    max-width: 1000px;
+    display: flex;
+    flex-direction: row!important;
+}
+.left {
+    width: 40%;
+}
+.left2 {
+    width: 40%;
+}
+.image1{
+    max-width: 100%;
+    padding-top: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 100px;
+}
+.image2{
+    max-width: 100%;
+    padding-top: 60px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.right {
+    width: 60%;
+    background-color: rgb(0, 68, 255)!important;
+    border-top-right-radius: 5%;
+    border-bottom-right-radius: 5%;
+}
+.right2 {
+    width: 60%;
+    background-color: rgb(0, 68, 255)!important;
+    border-top-right-radius: 5%;
+    border-bottom-right-radius: 5%;
+}
+.card-title{
+    padding-bottom: 50px;
+    padding-top: 60px;
+}
+.footer {
+    background-color: rgb(0, 68, 255);
+    height: 300px;
+    padding: 0;
+    margin: 0 auto;
+}
+.bottom-header {
+    font-weight: 600;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    color: white;
+}
+.flex-box2 {
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    justify-content: center;
+}
+.bottom-bullet-text {
+    margin-bottom: 50px;
+    color: white;
+}
+.top-button1 {
+    margin: 10px;
+    width: 120px;
+    color: rgb(0, 68, 255)!important;
+    border-color: rgb(0, 68, 255)!important;
+}
+.top-button2 {
+    margin: 10px;
+    width: 120px;
+    background-color: rgb(0, 68, 255)!important;
+}
+.line {
+    max-width: 850px;
+    margin-bottom: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgba(174, 174, 174, 0.801);
+}
+.lorem-text {
+    margin: auto;
+    width: 500px;
+    padding-bottom: 40px;
+}
+.lorem-text2 {
+    margin: auto;
+    width: 500px;
+    padding-bottom: 60px;
+    padding-top: 100px;
+}
+.body-title {
+    margin-bottom: 60px;
+}
+.button4 {
+    background-color: white!important;
+    margin: 20px;
+}
+.button3 {
+    background-color: rgb(101, 196, 0)!important;
+    margin: 20px;
+}
