@@ -90,13 +90,15 @@ nav a {
     text-align: center;
 }
 .card-top{
-    width: 120%;
+    width: 100%;
     margin:0 auto;
     float: none;
     max-width: 1000px;
     display: flex;
     flex-direction: row!important;
-    border: solid;
+    border: solid rgba(197, 197, 197, 0.755);
+    border-top-right-radius: 5%;
+    border-bottom-right-radius: 5%;
 }
 .card-bottom{
     width: 100%;
@@ -108,13 +110,16 @@ nav a {
 }
 .left {
     width: 40%;
-
+}
+.left2 {
+    width: 40%;
 }
 .image1{
     max-width: 100%;
-    padding-top: 40px;
+    padding-top: 100px;
     padding-left: 10px;
     padding-right: 10px;
+    padding-bottom: 100px;
 }
 .image2{
     max-width: 100%;
@@ -125,15 +130,24 @@ nav a {
 .right {
     width: 60%;
     background-color: rgb(0, 68, 255)!important;
+    border-top-right-radius: 5%;
+    border-bottom-right-radius: 5%;
+}
+.right2 {
+    width: 60%;
+    background-color: rgb(0, 68, 255)!important;
+    border-top-right-radius: 5%;
+    border-bottom-right-radius: 5%;
 }
 .card-title{
     padding-bottom: 50px;
-    padding-top: 40px;
+    padding-top: 60px;
 }
 .footer {
     background-color: rgb(0, 68, 255);
     height: 300px;
     padding: 0;
+    margin: 0 auto;
 }
 .bottom-header {
     font-weight: 600;
@@ -171,24 +185,17 @@ nav a {
 }
 .lorem-text {
     margin: auto;
-    width: 400px;
+    width: 500px;
     padding-bottom: 40px;
+}
+.lorem-text2 {
+    margin: auto;
+    width: 500px;
+    padding-bottom: 60px;
+    padding-top: 100px;
 }
 .body-title {
     margin-bottom: 60px;
-}
-.lorem-text-bottom {
-    padding-bottom: 40px;
-}
-.lorem-text-top2 {
-    margin-top: 120px;
-    margin-bottom: 0;
-}
-.lorem-text2 {
-    margin: 0;
-}
-.lorem-text-bottom2{
-    padding-bottom: 40px;
 }
 .button4 {
     background-color: white!important;
