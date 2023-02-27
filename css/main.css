@@ -1,0 +1,192 @@
+.nav-links {
+    justify-content: space-between;
+}
+
+#nav-bar {
+    max-width: 100%;
+}
+
+
+#nav-bar button {
+    font-weight: 650;
+    border-radius: 5px;
+}
+
+#nav-text {
+    padding-top: 15px;
+    font-weight: 500;
+}
+
+#top-left h1 {
+    font-size: 400%;
+    font-weight: bolder;
+}
+
+#top-left p {
+    font-size: medium;
+    color: rgb(179, 179, 179);
+    font-weight: 650;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+#top-left button {
+    padding: 20px 30px;
+    font-size: 25px;
+    border-radius: 15px;
+    font-weight: 600;
+}
+
+#top-left h5 {
+    padding-top: 30px;
+    color: gray;
+    font-weight: 600;
+}
+
+#top-left h5 a {
+    text-decoration: none;
+    color: gray;
+}
+
+#bottom-left {
+    padding-top: 20px;
+}
+
+#right-image {
+    padding-top: 40px;
+    width: 550px;
+}
+
+#how-it-works {
+    font-weight: 700;
+}
+
+#start-to-explore {
+    font-weight: 650;
+}
+
+
+#start-4-box {
+    margin: auto;
+    text-align: center;
+    width: 700px;
+}
+
+#explore-border{
+    border-radius: 15px;
+}
+
+#payment-img img {
+    position: relative;
+    width: 50px;
+}
+
+#payment-img h3 {
+    position: absolute;
+    top: 0;
+    padding-left: 40px;
+    padding-top: 25px;
+}
+
+#retain-img img {
+    text-align: center;
+    width: 50px;
+}
+
+#reporting-img img {
+    text-align: center;
+    width: 50px;
+}
+
+#convert-img img {
+    text-align: center;
+    width: 70px;
+}
+
+#start-accepting-img {
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+
+#start-accepting {
+    width: 60%;
+    border-radius: 20px;
+    margin-left: 20%;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+#start-accepting-body{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 50px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+#start-accepting-body h1{
+    font-weight:bold;
+}
+
+#start-accepting-body button{
+    padding-left: 80px;
+    padding-right: 80px;
+    border-radius: 5px;
+    border-width: 2px;
+}
+
+#solutions-to-fit{
+    width: 50%;
+    margin-left: 31%;
+    margin-top: 50px;
+}
+
+#solutions-to-fit img{
+    width: 100px;
+    margin-left: 90px;
+ 
+}
+
+#laptop-card{
+    position: absolute;
+    font-size: 50px;
+    padding-left: 107px;
+    padding-top: 20px; 
+}
+
+#task-card{
+    position: absolute;
+    font-size: 50px;
+    padding-left: 115px;
+    padding-top: 25px; 
+}
+
+#analytics-card{
+    position: absolute;
+    font-size: 50px;
+    padding-left: 115px;
+    padding-top: 25px; 
+}
+
+#project-card{
+    position: absolute;
+    font-size: 50px;
+    padding-left: 117px;
+    padding-top: 25px; 
+}
+
+#footer h1{
+    font-weight:bold;
+}
+
+#footer{
+    margin-top: 80px;
+    padding-bottom: 100px;
+}
+
+.fa-solid{
+    font-size: 10px;
+    text-align: center;
+
+}
